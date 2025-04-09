@@ -22,6 +22,9 @@ example.com    FALSE    /    FALSE    0    session    abc123xyz
 
 example.com    FALSE    /    FALSE    0    admin    true
 
+
+
+
 HTTP කුකීස් (cookies) කියන්නේ මොකක්ද?
 
 example.com:
