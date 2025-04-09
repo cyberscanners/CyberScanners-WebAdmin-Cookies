@@ -24,6 +24,25 @@ example.com    FALSE    /    FALSE    0    admin    true
 
 
 
+උදාහරණයේ තේරුම:
+
+example.com FALSE / FALSE 0 session abc123xyz:
+
+* example.com වෙබ් අඩවියේ සැෂන් කුකී එකක්. කල් ඉකුත් වෙන්නේ නැත (session එක වැසුණු විට මැකෙනවා). Value එක abc123xyz යි.
+
+example.com FALSE / FALSE 0 admin true:
+
+* example.com වෙබ් අඩවියේ තවත් කුකී එකක්. "admin" තත්වය true ලෙස සුරකිනවා. මෙයත් session cookie එකක්.
+
+මේවා භාවිතා වෙන්නේ කොහේද?
+
+Session Cookie (session): 
+
+* ඔබ වෙබ් අඩවියේ ලොග් වෙලා ඉන්නකම් ඔබව හඳුනාගන්න.
+
+Admin Cookie (admin): 
+
+* ඔබට ඇඩ්මින් අවසර තිබෙනවාදැයි සුරැකීමට (උදා: ඇඩ්මින් පැනලයට යන්න).
 
 HTTP කුකීස් (cookies) කියන්නේ මොකක්ද?
 
