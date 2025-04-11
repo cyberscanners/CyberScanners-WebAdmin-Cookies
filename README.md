@@ -1,5 +1,7 @@
 # CyberScanners-WebAdmin-Cookies
 
+# 𝐂𝐘𝐁𝐄𝐑 𝐒𝐂𝐀𝐍𝐍𝐄𝐑𝐒 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐑𝐌𝐔𝐗 𝐖𝐄𝐁 𝐀𝐃𝐌𝐈𝐍 𝐂𝐎𝐎𝐊𝐈𝐄𝐒.ᴘᴄ ᴏʀ ᴍᴏʙɪʟᴇ
+
 $ pkg update && pkg upgrade
 
 $ pkg install curl
